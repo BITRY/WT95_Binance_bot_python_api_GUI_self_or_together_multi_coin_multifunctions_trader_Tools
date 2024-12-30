@@ -8,7 +8,7 @@ All is buggy and uncleaned but runs as it is but pay attention...may i was usnur
 You need to cearte full all fodler in coins  before run it you find it in NOW.py witch one to create.....  rest all should  work....some stuff with the tkinter window after a while the crash or are unstable, in code but is usssable as it is...or was for me.
 
 
-
+you need to cearte teh content for all coins before run it with exp contene form coins/BTCUSDT     willl create better readem later....
 
 🚀 WT95 Binance Python API GUI Trader Tool
 
