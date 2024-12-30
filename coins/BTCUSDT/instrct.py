@@ -1,0 +1,10 @@
+changeside=0
+nextamount=1.0
+timeframe=4400.0
+max_switches=3.0
+RoiCloseAdd=3.0
+spreadAdd=2.0
+HRoeInit=2350.0
+HRoeAddDiff=22.0
+HRoeDiff=8.0
+TriggerPoint = -500.0

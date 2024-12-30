@@ -1,0 +1,6 @@
+Trade ID: 130928366
+Symbol: ALGOUSDT
+Price: 0.11190000
+Quantity: 258.00000000
+Buyer Maker: True
+---

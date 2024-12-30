@@ -1,0 +1,15 @@
+Coin = 'BNBUSDT'
+TradeAmount = 0.06
+TradeX = 7
+setDOWNstart = 0.1
+StopTrades = 5
+TakeProfitFromBUY = 34
+TakeProfitFromBUYInitial = 18
+TakeProfitFromBUY2 = 5555
+TakeProfitFromSELL = 18
+TakeProfitFromSELLInitial = 18
+ROICloseLevel = -15
+ROICloseLevelInitial = -15
+spread1 = 25
+spread1Initial = 25
+PosNotFilledXAddLevel = 10

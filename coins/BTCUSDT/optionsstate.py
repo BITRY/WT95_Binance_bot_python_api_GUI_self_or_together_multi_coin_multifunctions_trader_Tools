@@ -1,0 +1,11 @@
+option1 = True
+option2 = True
+option3 = True
+option4 = True
+option5 = True
+option6 = False
+option7 = True
+option8 = False
+option9 = False
+option10 = False
+option11 = False
