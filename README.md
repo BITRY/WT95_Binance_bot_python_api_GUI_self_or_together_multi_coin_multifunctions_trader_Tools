@@ -17,9 +17,20 @@ you need to cearte teh content for all coins before run it with exp contene form
 
 A comprehensive multi-coin trading bot with advanced analytics, manual and automated trading, and a sleek GUI interface for Binance users.
 🌟 Key Features
+
+Bot Mode 
+Human Mode  ( with using speizifed setting as simple set auto stoploss )
+Mixed Mode 
+
+see pic there are much options how to use that multitool 
+
+You can Run may up 10Coin parallely ... Pay Attention sint optimal with api calls (Rater-Limit)  so if you reach hole bot can stop and you lose ALL!!! 
+May in futire we soudl simple replace the api calls with useing websocket stram for suer account datat i will add in next time for you..... or may somebody elese cabn short do an amke a PR  with the changes.....so  best woudl be wus webscoket setarm worte to a json witch we can sue inth differnet bot^s runing for teh difirent coins  and ceck pos info in the json so very really faster then and...so new versionwe use then onyl for buy sell exectution apic   all rest we can handle with ultar fast websocket.....  so but i dont sue that repo anymore so will do but not now....or soembody can do pelase...
+
+
 🔥 Multi-Coin Support
 
-    Trade multiple cryptocurrencies (e.g., BTC, ETH, BNB) from a single interface.
+    Trade BINANCE USD-M Futures Coins  allmost all shoudl work. 
     Easily switch between coins with dropdown menus and a streamlined GUI.
 
 ⚡ Manual and Automated Trading
