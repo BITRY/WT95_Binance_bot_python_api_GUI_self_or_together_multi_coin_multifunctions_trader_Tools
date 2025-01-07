@@ -1,5 +1,8 @@
 # CryptoBot_ManualTrade_Python_Binance_API_Trading_GUI
 
+![WT95 Binance Bot Update](wtupdate.png "WT95 Binance Bot Update")
+
+
 #WT95_Binance_bot_python_api_GUI_self_or_together_multi_coin_multifunctions_trader_Tools.git
 
 
