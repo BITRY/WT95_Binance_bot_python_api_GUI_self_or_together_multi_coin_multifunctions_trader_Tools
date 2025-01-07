@@ -6,6 +6,12 @@
 #WT95_Binance_bot_python_api_GUI_self_or_together_multi_coin_multifunctions_trader_Tools.git
 
 
+!!!!!! GENERALL USSAGE AT YOU OWN RISK YOU NEED TO NOW WHAT YOU DO AND SET !!!!!!
+
+####AND IF YOU SET ONE VAR WRONG, BECAUSE YOU DONT KNOW WHAT YOU DO, OR YOU TOUCH A BUG,  SO THATs YOUR PROBLEM, that isnt a finally VERSION i ussed a lot and it is stable,  but exp: The PNL calc isn't precise, please pay attention lower amount before you know it, what witch level effect it has or check the main bot file in each coin folder fo each coin you can also modify bot here ---->>>>NOW.py<---- so you can understand how it works. 
+
+!!!!! I do not respond and am not responsible for any loss or if a user complains about it !!!!!
+
 I'm leaving out this old version because for me no more ussage, it was still a lot of work to create and you could expand on it and for some traders it would perhaps be helpful to have it, even just to set the stop loss automatically, for example. But the software can do almost anything if you know it... For me, I don't need it anymore because I've developed further and started a new project, so I'm giving it out to the wide world for others to try it out, it still has a few minor errors, and I'm not a programmer, I put it together with gpt3 about a year ago and now it's lying around... and it was a lot of heart and soul and work, so for some it would be helpful to have it, maybe someone can teach programming with it, make the changes to what the bot should do (if activated, change to be created in NOW.py)
 All is buggy and uncleaned but runs as it is but pay attention...may i was usnure wicth once was my localy best newset lastest version...so may cechk first....but sodul be run as it is but is very buggy  all...compared with my newest project....
 You need to cearte full all fodler in coins  before run it you find it in NOW.py witch one to create.....  rest all should  work....some stuff with the tkinter window after a while the crash or are unstable, in code but is usssable as it is...or was for me.
