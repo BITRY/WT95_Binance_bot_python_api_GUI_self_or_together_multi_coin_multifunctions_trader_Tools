@@ -24,8 +24,10 @@ Mixed Mode
 
 see pic there are much options how to use that multitool 
 
-You can Run may up 10Coin parallely ... Pay Attention sint optimal with api calls (Rater-Limit)  so if you reach hole bot can stop and you lose ALL!!! 
-May in futire we soudl simple replace the api calls with useing websocket stram for suer account datat i will add in next time for you..... or may somebody elese cabn short do an amke a PR  with the changes.....so  best woudl be wus webscoket setarm worte to a json witch we can sue inth differnet bot^s runing for teh difirent coins  and ceck pos info in the json so very really faster then and...so new versionwe use then onyl for buy sell exectution apic   all rest we can handle with ultar fast websocket.....  so but i dont sue that repo anymore so will do but not now....or soembody can do pelase...
+You can Run may up 10+ Coin`s parallel ... Pay Attention isnt optimal with api calls (Rater-Limit)!!
+So if you reach Rater-Limit Bot can stop and you lose ALL!!! 
+May in future we sould simple replace the api calls with using websocket stream for user account data i will add in next time for you..... or may somebody elese can short do an make a PR  with the changes.
+So best would be to use websocket stream  get all active coin data also open orders so and may then we chaneg to Limit order ussage instat of MARKET order, so we are, if we place correctly the LIMIT order we are at last MAKER and get less fee, for teh acaunt nformation when we use then newly one global json for pos info and one global for orderinfo. So then we have supperfast udpates without ussing api anymore. So we are then really faster so new version, we use then onyl for buy sell api and rest all we can handle without limit via binance websocket user stram all rest we can handle with ultar fast websocket..so but i dont use that repo anymore so will do but not now....or soembody can do please...
 
 
 🔥 Multi-Coin Support
