@@ -19,6 +19,8 @@ You need to cearte full all fodler in coins  before run it you find it in NOW.py
 
 you need to cearte teh content for all coins before run it with exp contene form coins/BTCUSDT     willl create better readem later....
 
+see all .png in the root git, so you know what it is ;-) and how it looks at last...
+
 🚀 WT95 Binance Python API GUI Trader Tool
 
 A comprehensive multi-coin trading bot with advanced analytics, manual and automated trading, and a sleek GUI interface for Binance users.
