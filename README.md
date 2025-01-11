@@ -21,6 +21,17 @@ you need to cearte teh content for all coins before run it with exp contene form
 
 see all .png in the root git, so you know what it is ;-) and how it looks at last...
 
+
+If you had started a COin in the GUI you can also Close GUI --->  the started bot sill runs behind (restarter.py hold all running) if you wana stopp all you need to STOP each COIN. Your the boss
+as long yours computer stable and internet connection stable ( and ::-) code stable--souldbe)..  
+So if a Coin is started is started as long you don't stop it you need to stop it in the GUI again to  STOP it!!!  
+Also if you close the GUI !! Pay Attention !! IF YOU DONT STOP IT AND CLOSE GUI, it run and runs behind......  Pay Attention !!
+
+with all please...slow ussage..and learn how what does in NOW.py  in each coins folder...  You Can sue a Coin Folder Name Slot and sue with other symbol is no problem...onyl for oyu at last to manage it. 
+
+
+
+
 🚀 WT95 Binance Python API GUI Trader Tool
 
 A comprehensive multi-coin trading bot with advanced analytics, manual and automated trading, and a sleek GUI interface for Binance users.
@@ -30,7 +41,7 @@ Bot Mode
 Human Mode  ( with using speizifed setting as simple set auto stoploss )
 Mixed Mode 
 
-see pic there are much options how to use that multitool 
+See pic there are much options how to use that multitool 
 
 You can Run may up 10+ Coin`s parallel ... Pay Attention isnt optimal with api calls (Rater-Limit)!!
 So if you reach Rater-Limit Bot can stop and you lose ALL!!! 
