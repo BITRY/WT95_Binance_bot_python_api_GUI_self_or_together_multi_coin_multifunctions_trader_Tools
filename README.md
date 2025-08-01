@@ -1,4 +1,6 @@
-# CryptoBot Manual Trade - Python Binance API Trading GUI
+# CryptoBot AUTO  Trade - Python Binance API Trading GUI
+
+CHECK FILE NOW.py   that the BOT.
 
 ![WT95 Binance Bot Update](UPDATE_LAST_SCREENSHOT_Live_Bot_use.png "WT95 Binance Bot Update")
 
